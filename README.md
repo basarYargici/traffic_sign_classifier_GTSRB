@@ -12,7 +12,7 @@ Data set contents:
 * The number of unique classes/labels in the data set is: 43
 
 
-## Outputs from project
+## Output Examples
 <img src="Project Explanation/outputOne.png" height = "512">
 <img src="Project Explanation/outputTwo.png" height = "512">
 <img src="Project Explanation/outputThree.png" height = "512">
