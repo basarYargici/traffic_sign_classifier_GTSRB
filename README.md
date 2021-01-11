@@ -4,7 +4,7 @@
 ### Overview
 In this project, I used deep neural networks and convolutional neural network architectures to classify traffic signs. I will train the model so it can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, I will test the model. Detailed description about my project is [Project Explanation Paper](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
-I used the numpy library to calculate summary statistics of the traffic signs data set:
+data set contents:
 * The size of training set is: 34799
 * The size of the validation set is: 4410
 * The size of test set is: 12630
@@ -33,5 +33,6 @@ I used the numpy library to calculate summary statistics of the traffic signs da
 [image10]: ./test_images/9.jpg "Traffic Sign 9"
 [image11]: ./test_images/10.jpg "Traffic Sign 10"
 
-
+## Outputs from project
+![OutputOne](./Project Explanation/outputOne.png)
 
