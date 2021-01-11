@@ -34,5 +34,5 @@ data set contents:
 [image11]: ./test_images/10.jpg "Traffic Sign 10"
 
 ## Outputs from project
-![OutputOne](./Project Explanation/outputOne.png)
+![OutputOne](../Project Explanation/outputOne.png)
 
