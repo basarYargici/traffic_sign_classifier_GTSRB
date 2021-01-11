@@ -2,7 +2,7 @@
 # Project: Traffic Sign Classification
 
 ### Overview
-In this project, I used deep neural networks and convolutional neural network architectures to classify traffic signs. I will train the model so it can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, I will test the model. Detailed description about my project is [Project Explanation Paper](https://github.com/basarYargici/traffic_sign_classifier_GTSRB/blob/main/Project%20Explanation/ProjectExplanationPaper.pdf)
+In this project, I used deep neural networks and convolutional neural network architectures to classify traffic signs. I will train the model so it can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, I will test the model. Detailed description about my project is in the [Project Explanation Paper](https://github.com/basarYargici/traffic_sign_classifier_GTSRB/blob/main/Project%20Explanation/ProjectExplanationPaper.pdf)
 
 Data set contents:
 * The size of training set is: 34799
